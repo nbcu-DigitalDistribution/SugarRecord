@@ -933,7 +933,7 @@
 				PRODUCT_MODULE_NAME = SugarRecordCoreData;
 				PRODUCT_NAME = SugarRecordCoreData;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -952,7 +952,7 @@
 				PRODUCT_MODULE_NAME = SugarRecordCoreData;
 				PRODUCT_NAME = SugarRecordCoreData;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
